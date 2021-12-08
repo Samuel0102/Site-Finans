@@ -19,6 +19,12 @@ Projeto front-end do curso "Desenvolvimento Web Completo" da plataforma Udemy.
 ## Funcionalidades
 * Nenhuma funcionalidade, apenas estrutura Front-End    
 
+## Visual final
+<a href="https://ibb.co/K0P4CXp"><img src="https://i.ibb.co/0D74PcR/a.png" alt="a" border="0"></a>
+<a href="https://ibb.co/pR658wm"><img src="https://i.ibb.co/xfKd0L4/b.png" alt="b" border="0"></a>
+<a href="https://ibb.co/z6gXKXq"><img src="https://i.ibb.co/Z2rByBq/c.png" alt="c" border="0"></a>
+<a href="https://ibb.co/NyhGPJm"><img src="https://i.ibb.co/gR1cpfP/d.png" alt="d" border="0"></a>
+
 ## Requisitos para manipular código
 * Nenhum requisito  
 
