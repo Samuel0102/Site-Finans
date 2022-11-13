@@ -1,42 +1,50 @@
-# :dollar: Site-Finans :dollar:
-Projeto front-end do curso "Desenvolvimento Web Completo" da plataforma Udemy.  
-:link: https://samuel0102.github.io/site-finans/
+# Finans
+Front-End Project of the Udemy Course
 
-# Sobre o projeto
+## About the project
 
-## Especificações
-*Autor*: Samuel Pacheco Ferreira.     
-*Descrição*: Projeto web Front-End para aprendizagem de Boostrap.  
-*Andamento*: Finalizado.  
-*Terá atualizações*: Não.    
-*Projeto original*: Curso Udemy  
+### Final Visual
 
-## Tecnologias
-*Tecnologias utilizadas*: HTML, CSS & Bootstrap.     
-*Bibliotecas utilizadas*: Nenhuma.  
-*IDE*: Visual Studio Code.      
-*Estruturação*: HTML padrão.  
+#### Desktop
 
-## Funcionalidades
-* Nenhuma funcionalidade, apenas estrutura Front-End    
-
-## Visual final
-<a href="https://ibb.co/K0P4CXp"><img src="https://i.ibb.co/0D74PcR/a.png" alt="a" border="0"></a>
-<a href="https://ibb.co/pR658wm"><img src="https://i.ibb.co/xfKd0L4/b.png" alt="b" border="0"></a>
-<a href="https://ibb.co/z6gXKXq"><img src="https://i.ibb.co/Z2rByBq/c.png" alt="c" border="0"></a>
-<a href="https://ibb.co/NyhGPJm"><img src="https://i.ibb.co/gR1cpfP/d.png" alt="d" border="0"></a>
-
-## Requisitos para manipular código
-* Nenhum requisito  
-
-## Origem do projeto
-O projeto se originou a partir da necessidade de aprendizado do framework Bootstrap.    
- 
-## Principais dificuldades
-* Primeiro uso grande do framework.  
-
-## Observações
-* Design não fora desenvolvido do zero.
+![image](https://user-images.githubusercontent.com/61472839/201500658-3921988f-39f4-4a2b-acce-f771915cf725.png)
 
 
+#### Mobile
+
+![image](https://user-images.githubusercontent.com/61472839/201500669-09c8f26e-3612-4188-bcf9-dd615fd7378e.png)
+
+
+### Introduction
+This project was proposed by the Udemy Course(focused on Web Development). The main objective of the project was to be the first using of the Bootstrap, to make a site for a fake institution(Finans)
+
+### Especifications
+*Author*: Samuel Pacheco Ferreira      
+*Description*: Front-End Project of the Udemy Course   
+*Stage*: Finished         
+*Will be updated?*: No          
+
+### Technologies
+*Technologies*: Bootstrap          
+*IDE*: Visual Studio Code          
+*Main Structure*: HTML5       
+
+### Functionalities
+* A static page
+
+
+### Requirements to coding
+* No requirements
+
+### System Execution
+1. Opening of the index.html
+
+### Documentation or other files
+:link: 
+
+### Project Origin
+* Udemy Course
+
+### Main Challenges of the project
+* First using of Bootstrap
 
